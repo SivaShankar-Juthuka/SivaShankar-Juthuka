@@ -2,7 +2,7 @@ Hello
 This is Siva Shankar
 
 
-[![](https://leetcard.jacoblin.cool/sivashankarjuthuka8?theme=dark)](https://leetcode.com/vijaymanikantareddy/)
+[![](https://leetcard.jacoblin.cool/sivashankarjuthuka8?theme=dark)](https://leetcode.com/sivashankarjuthuka8/)
 
 
 
