@@ -6,4 +6,4 @@ This is Siva Shankar
 
 
 
-[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sivashankarjuthuka)](https://auth.geeksforgeeks.org/user/sivashankarjuthuka)
+[![Siva's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sivashankarjuthuka)](https://auth.geeksforgeeks.org/user/sivashankarjuthuka)
