@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Siva Shankar</h1>
 
-- 💻 I'm a Passionate Programmer and I'm always excited to learn new things 
+- 💻 I'm a Passionate Programmer and I'm always excited to learn new things.
 
 - 📫 You can connect with me through my [LinkedIn](https://www.linkedin.com/in/siva-shankar-juthuka-26b80023a/)
 
-## LeetCode Stats:
-  
-[![](https://leetcard.jacoblin.cool/sivashankarjuthuka8?theme=dark)](https://leetcode.com/sivashankarjuthuka8/)
+## Stats:
 
+| LeetCode | GeeksforGeeks |
+|----------|----------------|
+| [![](https://leetcard.jacoblin.cool/sivashankarjuthuka8?theme=dark)](https://leetcode.com/sivashankarjuthuka8/) | [![Siva's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sivashankarjuthuka)](https://auth.geeksforgeeks.org/user/sivashankarjuthuka) |
 
-## GeeksforGeeks Stats:
-  
-[![Siva's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sivashankarjuthuka)](https://auth.geeksforgeeks.org/user/sivashankarjuthuka)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SivaShankar-Juthuka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=SivaShankar-Juthuka&theme=dark&hide_border=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaShankar-Juthuka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
