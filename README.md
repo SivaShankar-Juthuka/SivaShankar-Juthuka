@@ -8,7 +8,7 @@
 
 | LeetCode | GeeksforGeeks |
 |----------|----------------|
-| [![](https://leetcard.jacoblin.cool/sivashankarjuthuka8?theme=dark)](https://leetcode.com/sivashankarjuthuka8/) | [![Siva's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sivashankarjuthuka)](https://auth.geeksforgeeks.org/user/sivashankarjuthuka) |
+| [![](https://leetcard.jacoblin.cool/sivashankarjuthuka8?theme=dark)](https://leetcode.com/sivashankarjuthuka8/) | [![Siva's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sivashankarjuthuka)](https://www.geeksforgeeks.org/user/sivashankarjuthuka/) |
 
 # 📊 GitHub Stats:
 | Stat | Current Streak | Most Used |
